@@ -4,7 +4,7 @@ int main ()
 {
 	char letra;
 	
-	cout<< "A continuacion, introduzca una letra para mostrarle la siguiente"<< endl;
+	cout<< "A continuación, introduzca una letra para mostrarle la siguiente"<< endl;
 	cout<< "Introduzca una letra: ";
 	cin>>letra;
 

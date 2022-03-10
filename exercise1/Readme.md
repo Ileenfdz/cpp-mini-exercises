@@ -6,7 +6,6 @@ In this exercise I need to create a program that asks the user for a number A an
 
 In this one, I have to write a program that prompts the user for a letter and displays the next character. Note that a char is nothing more than a number with a value represented by a character in the ASCII table following the alphabet.
 
-
 ## Exercise 3
 
 Write a program that prompts the user for a number and displays its square.

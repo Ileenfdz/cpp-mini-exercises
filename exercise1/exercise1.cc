@@ -6,7 +6,7 @@ int main()
 	int num2;
 	int suma;
 
-	cout<<"A continuacion,introduzca dos números para sumarlos"<< endl;
+	cout<<"A continuación,introduzca dos números para sumarlos"<< endl;
 	cout<< "Introduce un número: ";
 	cin>>num1;
 
